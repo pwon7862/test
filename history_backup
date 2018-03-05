@@ -1,0 +1,44 @@
+    1  ls
+    2  cd d:
+    3  ls
+    4  cd ..
+    5  ls
+    6  cd E:
+    7  ls
+    8  cd python/
+    9  ls
+   10  pwd
+   11  cd my_project
+   12  mkdir my_project
+   13  cd my_project/
+   14  git init
+   15  ls
+   16  git status
+   17  echo "practice.git" >> read.txt
+   18  git status
+   19  ls
+   20  git add read.txt
+   21  git status
+   22  git commit
+   23  git status
+   24  git config --global
+   25  git config --global user.email " pwon7862@gmail.com"
+   26  git config --global user.name "psh"
+   27  git status
+   28  git commit
+   29  git log
+   30  git log -a
+   31  vi read.txt
+   32  git status
+   33  git add read.txt
+   34  git status
+   35  git commit -m "Second commit"
+   36  git status
+   37  git log
+   38  git log --oneline
+   39  ls
+   40  ls
+   41  ls
+   42  history
+   43  hitory > hitory
+   44  history > history_backup
